@@ -1,0 +1,38 @@
+STUDENT MANAGEMENT SYSTEM
+================================================================================
+Student ID: 101
+Name: Rahul Sha
+Age: 19
+Course: computer science
+Math: 90.0
+Python: 91.0
+Data Structures: 89.0
+Average: 90.00
+--------------------------------------------------------------------------------
+Student ID: 102
+Name: Neha Aggarwal
+Age: 18
+Course: cybersecurity
+Math: 90.0
+Python: 100.0
+Data Structures: 87.0
+Average: 92.33
+--------------------------------------------------------------------------------
+Student ID: 103
+Name: Subham 
+Age: 18
+Course: data analysis
+Math: 90.0
+Python: 100.0
+Data Structures: 78.0
+Average: 89.33
+--------------------------------------------------------------------------------
+Student ID: 104
+Name: Junaid Khan
+Age: 19
+Course: Computer science
+Math: 67.0
+Python: 89.0
+Data Structures: 78.0
+Average: 78.00
+--------------------------------------------------------------------------------
