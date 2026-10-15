@@ -1,0 +1,39 @@
+EMPLOYEE PAYROLL RECORDS
+=================================================================
+
+Employee ID: E101
+Name: Ananya Sen
+Designation: Software Design
+Basic Salary: Rs. 30000.00
+Allowances: Rs. 5000.00
+Gross Salary: Rs. 35000.00
+Deductions: Rs. 3000.00
+Net Salary: Rs. 32000.00
+-----------------------------------------------------------------
+Employee ID: E102
+Name: Rohan Das
+Designation: System Design
+Basic Salary: Rs. 50000.00
+Allowances: Rs. 6000.00
+Gross Salary: Rs. 56000.00
+Deductions: Rs. 4500.00
+Net Salary: Rs. 51500.00
+-----------------------------------------------------------------
+Employee ID: E103
+Name: Abhigyan
+Designation: Data analyst
+Basic Salary: Rs. 50000.00
+Allowances: Rs. 4500.00
+Gross Salary: Rs. 54500.00
+Deductions: Rs. 2500.00
+Net Salary: Rs. 52000.00
+-----------------------------------------------------------------
+Employee ID: E104
+Name: Meera Roy
+Designation: HR
+Basic Salary: Rs. 25000.00
+Allowances: Rs. 3500.00
+Gross Salary: Rs. 28500.00
+Deductions: Rs. 1800.00
+Net Salary: Rs. 26700.00
+-----------------------------------------------------------------
