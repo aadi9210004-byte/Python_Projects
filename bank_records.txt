@@ -1,0 +1,30 @@
+BANK ACCOUNT MANAGEMENT SYSTEM
+ACCOUNT RECORDS
+Account Number: 1001
+Holder Name: Rahul Sen
+Account Type: Savings
+Balance: Rs. 6060.00
+------------------------------------------------------------
+Account Number: 1002
+Holder Name: Priya Das
+Account Type: Current
+Balance: Rs. 18270.00
+------------------------------------------------------------
+Account Number: 1003
+Holder Name: Ashish
+Account Type: Savings
+Balance: Rs. 3400.00
+------------------------------------------------------------
+Account Number: 1004
+Holder Name: Neha Roy
+Account Type: Savings
+Balance: Rs. 4400.00
+------------------------------------------------------------
+
+TRANSACTION HISTORY
+{'Date': '2026-10-15 07:44:15', 'Account Number': '1001', 'Type': 'Account Opened', 'Amount': '5500', 'Balance After': '5500.00'}
+{'Date': '2026-10-15 07:45:15', 'Account Number': '1002', 'Type': 'Account Opened', 'Amount': '18270', 'Balance After': '18270.00'}
+{'Date': '2026-10-15 07:45:39', 'Account Number': '1003', 'Type': 'Account Opened', 'Amount': '3400', 'Balance After': '3400.00'}
+{'Date': '2026-10-15 07:46:06', 'Account Number': '1004', 'Type': 'Account Opened', 'Amount': '6700', 'Balance After': '6700.00'}
+{'Date': '2026-10-15 07:47:12', 'Account Number': '1001', 'Type': 'Deposit', 'Amount': '560', 'Balance After': '6060.00'}
+{'Date': '2026-10-15 07:47:31', 'Account Number': '1004', 'Type': 'Withdrawal', 'Amount': '2300', 'Balance After': '4400.00'}
