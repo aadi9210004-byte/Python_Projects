@@ -1,0 +1,35 @@
+LIBRARY MANAGEMENT SYSTEM
+============================================================
+
+Book ID: B101
+Title: Python Programming
+Author: John Smith
+Category: Programming
+Total copies: 3
+Available copies: 2
+Borrowers: Rahul
+------------------------------------------------------------
+Book ID: B102
+Title: Clean Code
+Author: Robert .C.Martin
+Category: Programming
+Total copies: 4
+Available copies: 4
+Borrowers: None
+------------------------------------------------------------
+Book ID: B103
+Title: Introduction to Algorithms
+Author: Thomas.H.Carmen
+Category: Algorithm Analysis
+Total copies: 3
+Available copies: 3
+Borrowers: None
+------------------------------------------------------------
+Book ID: B104
+Title: Deep Learning
+Author: Ian Goodfellow
+Category: Deep learning
+Total copies: 7
+Available copies: 6
+Borrowers: Aisha
+------------------------------------------------------------

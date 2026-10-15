@@ -1,0 +1,5 @@
+Book ID,Title,Author,Category,Total Copies,Available Copies,Borrowers
+B101,Python Programming,John Smith,Programming,3,2,Rahul
+B102,Clean Code,Robert .C.Martin,Programming,4,4,
+B103,Introduction to Algorithms,Thomas.H.Carmen,Algorithm Analysis,3,3,
+B104,Deep Learning,Ian Goodfellow,Deep learning,7,6,Aisha
